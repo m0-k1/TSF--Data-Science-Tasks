@@ -12,8 +12,11 @@ This repository consist of the tasks given during my internship at The Sparks Fo
 
 >What will be predicted score if a student study for 9.25 hrs in a day? 
 
+To see the implementation check this link -https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%201%20-%20To%20Explore%20Supervised%20Machine%20Learning/Linear-Regression.ipynb
+
 ## Task 2 - Exploring Unsupervised Machine Learning
 >From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+To see the implementation check this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%202%20-%20Exploring%20Unsupervised%20Machine%20Learning/KMeans_Clustering.ipynb
 
 ## Task 3 - Exploring Decision Tree Algorithm
 >For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
