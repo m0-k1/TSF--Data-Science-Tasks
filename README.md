@@ -16,6 +16,7 @@ To see the implementation check this link -https://github.com/m0-k1/TSF--Data-Sc
 
 ## Task 2 - Exploring Unsupervised Machine Learning
 >From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+
 To see the implementation check this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%202%20-%20Exploring%20Unsupervised%20Machine%20Learning/KMeans_Clustering.ipynb
 
 ## Task 3 - Exploring Decision Tree Algorithm
