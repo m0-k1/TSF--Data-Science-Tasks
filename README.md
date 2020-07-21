@@ -22,4 +22,6 @@ To see the implementation check this link - https://github.com/m0-k1/TSF--Data-S
 ## Task 3 - Exploring Decision Tree Algorithm
 >For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
+To see the implementation click on this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%203%20-%20Exploring%20Decision%20Trees/Decision-Tree.ipynb
+
 
