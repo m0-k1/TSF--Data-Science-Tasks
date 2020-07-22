@@ -1,9 +1,17 @@
-# TSF-->Data-Science-Tasks
+# The Sparks Foundation - Machine Learning Tasks
 
 <img src="https://github.com/favicon.ico" width="48">
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mohit-kundu"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohit-kundu?trk=profile-badge'>Mohit Kundu</a></div>
 
 This repository consist of the tasks given during my internship at The Sparks Foundation
+
+# About The Sparks Foundation
+
+[The Sparks Foundation](https://thesparksfoundationsingapore.org/) mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
+
+Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
+
+# TASKS
 
 ## Task 1 - Exploring Supervised Machine Learning
 
@@ -35,5 +43,15 @@ To see the implementation click on this link - https://github.com/m0-k1/TSF--Dat
     What all business problems you can derive by looking into the data? 
     You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 
+# Authors
+
+* **Mohit Kundu**  - [Github](https://github.com/m0-k1)
+                     - [Linkedin](https://www.linkedin.com/in/mohit-kundu)
+                     
+
+See also the list of [contributors](https://github.com/AadityaSapateTSF) 
 
 
+# Acknowledgments
+
+* Special Thanks to **The Sparks Foundation** for this Wonderful Internship Experience and Inspiration to do more. 
