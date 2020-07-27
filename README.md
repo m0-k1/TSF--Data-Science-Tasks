@@ -33,15 +33,6 @@ To see the implementation check this link - https://github.com/m0-k1/TSF--Data-S
 
 To see the implementation click on this link - https://github.com/m0-k1/TSF--Data-Science-Tasks/blob/master/Task%203%20-%20Exploring%20Decision%20Trees/Decision-Tree.ipynb
 
-## Task 4 - To Explore Business Analytics
-
->Perform 'Exploratory Data Analysis' on the provided dataset 'SampleSuperstore'
-
-    You are the business owner of the retail firm and want to see how your company is performing. 
-    You are interested in finding out the weak areas where you can work to make more profit. 
-    What all business problems you can derive by looking into the data? 
-    You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-
 # Authors
 
 * **Mohit Kundu**  - [Github](https://github.com/m0-k1)
