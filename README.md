@@ -44,4 +44,4 @@ See also the list of [contributors](https://github.com/AadityaSapateTSF)
 
 # Acknowledgments
 
-* Special Thanks to **The Sparks Foundation** for this Wonderful Internship Experience and Inspiration to do more. 
+* Special Thanks to **The Sparks Foundation** for this Wonderful Internship Experience and Inspiration to do more.
